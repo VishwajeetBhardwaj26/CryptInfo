@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Hunter
+            Crypt Info
           </Typography>
           <Typography
             variant="subtitle2"
